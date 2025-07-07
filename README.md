@@ -2,6 +2,13 @@
 
 This end-to-end Sales Analysis project combines SQL for data integration, Python for exploratory data analysis, and Power BI for dashboard visualization to deliver clear and actionable business insights.The goal was to unify scattered data sources, perform thorough exploratory data analysis (EDA), and present key business insights through an interactive dashboard.
 
+<img width="616" alt="sales 1" src="https://github.com/user-attachments/assets/42f3c411-6e25-4809-87e0-5d6390643b6b" />
+
+<img width="611" alt="sales2" src="https://github.com/user-attachments/assets/9101bcb1-5027-4cfa-9dcf-55ce606442b5" />
+
+<img width="616" alt="sales3" src="https://github.com/user-attachments/assets/a6319d7c-5180-45bd-b3a6-531d9d7073fa" />
+
+
 Initially, six CSV datasets (Sales, Customers, Products, Regions, States, and Budgets) were imported into SQL Server, where a unified view was created using multiple LEFT JOIN operations. This consolidated data ensured that every sales record was enriched with relevant customer and regional details.
 
 In Python, I performed data cleaning and EDA using pandas, seaborn, and matplotlib. Null handling, type standardization, and descriptive analysis helped uncover patterns in revenue trends, seasonal shifts, and regional performance. Visualizations like heatmaps and bar charts were used to identify top products and areas of concern.
